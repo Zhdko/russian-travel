@@ -1,0 +1,12 @@
+.intro__list{
+  width: 690px;
+  height: 90px;
+  display: flex;
+  flex-direction: column;
+  align-items: space-between;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 12px;
+  line-height: 1.5;
+  margin-top: 33px;
+}
