@@ -1,6 +1,5 @@
 .footer__link{
   margin: 0;
-  margin-right: 18px;
   font-style: normal;
   font-weight: 400;
   font-size: 1rem;
@@ -8,15 +7,13 @@
   text-decoration: none;
 }
 
-.footer__links:last-child{
+.footer__links:nth-child(4){
   margin-right: 0;
 }
 
 @media screen and (max-width: 500px) {
   .footer__link{
     font-size: 1.5rem;
-    margin-bottom: 32px;
-    margin-right: 0;
   }
 }
 

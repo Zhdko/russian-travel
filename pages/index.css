@@ -17,7 +17,6 @@
 @import url(../blocks/lead/__subtitle/lead__subtitle.css);
 @import url(../blocks/lead/__container/lead__container.css);
 @import url(../blocks/lead/__image/lead__image.css);
-@import url(../blocks/lead/__line/lead__line.css);
 @import url(../blocks/lead/__caption/lead__caption.css);
 
 /*Стили для блока Intro*/
@@ -36,12 +35,10 @@
 /*Стили бля блока Places*/
 @import url(../blocks/places/places.css);
 @import url(../blocks/place/place.css);
-@import url(../blocks/place/__header/place__header.css);
 @import url(../blocks/place/__title/place__title.css);
 @import url(../blocks/place/__website/place__website.css);
 @import url(../blocks/place/__url-heading/place__url-heading.css);
 @import url(../blocks/place/__link/place__link.css);
-@import url(../blocks/place/__content/place__content.css);
 @import url(../blocks/place/__image/place__image.css);
 @import url(../blocks/place/__paragraphs/place__paragraphs.css);
 @import url(../blocks/place/__paragraph/place__paragraph.css);
@@ -59,5 +56,6 @@
 @import url(../blocks/footer/footer.css);
 @import url(../blocks/footer/__navigation/footer__navigation.css);
 @import url(../blocks/footer/__links/footer__links.css);
+@import url(../blocks/footer/__item/footer__item.css);
 @import url(../blocks/footer/__link/footer__link.css);
 @import url(../blocks/footer/__copyright/footer__copyright.css);
