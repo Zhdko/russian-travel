@@ -3,8 +3,31 @@
   height: 72px;
   margin: 0;
   font-weight: 400;
-  font-size: 30px;
-  line-height: 36px;
+  font-size: 1.875rem;
+  line-height: 1.2;
   margin-bottom: 64px;
   text-align: center;
+  transition: margin-bottom 0.3s linear;
 }
+
+@media screen and (max-width: 1024px) {
+  .lead__subtitle{
+    margin-bottom: 56px;
+  }
+}
+
+@media screen and (max-width: 720px) {
+  .lead__subtitle{
+    max-width: 400px;
+    font-size: 1.5rem;
+  }
+}
+
+@media screen and (max-width: 460px) {
+  .lead__subtitle{
+    max-width: 288px;
+    font-size: 1rem;
+    margin-bottom: 40px;
+  }
+}
+

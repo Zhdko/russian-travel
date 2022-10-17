@@ -1,8 +1,16 @@
 .header{
   width: 92.5%;
-  margin: 0 auto 56px;
+  margin: 0 auto;
+  margin-bottom: 56px;
   display: flex;
   justify-content: space-between;
   align-items: center;
   padding-top: 28px;
+  transition: margin-bottom 0.3s linear;
+}
+
+@media screen and (max-width: 1024px) {
+  .header {
+    margin-bottom: 48px;
+  }
 }

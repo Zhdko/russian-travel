@@ -1,6 +1,4 @@
 .intro__list{
-  width: 690px;
-  height: 90px;
   display: flex;
   flex-direction: column;
   align-items: space-between;
