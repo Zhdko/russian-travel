@@ -3,7 +3,7 @@
   margin: 0;
   font-weight: 900;
   font-size: 6rem;
-  line-height: 1.1;
+  line-height: 1.041;
   margin-bottom: 32px;
   text-align: center;
   transition: margin-bottom 0.3s linear;
@@ -21,5 +21,6 @@
   .lead__title{
     max-width: 288px;
     font-size: 2.5rem;
+    line-height: 1.1;
   }
 }

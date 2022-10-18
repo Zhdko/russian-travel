@@ -11,9 +11,9 @@
   margin-bottom: 0;
 }
 
-@media screen and (max-width: 720px) {
+@media screen and (max-width: 769px) {
   .place__paragraph{
     font-size: 1rem;
-    margin-bottom: 16px;
+    margin-bottom: 25px;
   }
 }

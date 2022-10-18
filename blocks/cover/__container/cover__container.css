@@ -1,8 +1,6 @@
 .cover__container{
-  max-width: 560px;
   z-index: 1;
   position:absolute;
-
 }
 
 @media screen and (max-width: 600px){

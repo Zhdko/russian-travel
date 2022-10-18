@@ -1,5 +1,6 @@
 .header{
   max-width: 1184px;
+  width: 92.5%;
   margin: 0 auto;
   margin-bottom: 56px;
   display: flex;
@@ -24,6 +25,7 @@
 
 @media screen and (max-width: 460px) {
   .header {
+    padding-top: 16px;
     width: 90%;
   }
 }
