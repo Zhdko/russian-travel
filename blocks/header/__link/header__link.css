@@ -1,16 +1,19 @@
-.lang__link{
+.header__link{
   font-style: normal;
   font-weight: 400;
   font-size: 24px;
   line-height: 1.2;
   margin-right: 18px;
   text-decoration: none;
+  text-transform: uppercase;
 }
 
-.lang__link:last-child{
+.header__link:last-child{
   margin-right: 0px;
 }
 
-.lang__link:focus{
-  text-decoration: underline;
+@media screen and (max-width: 420px){
+  .header__link {
+    font-size: 18px;
+  }
 }
