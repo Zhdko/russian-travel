@@ -4,7 +4,7 @@
   column-gap: 40px;
   row-gap: 48px;
   margin-bottom: 80px;
-  transition: margin-bottom 0.3s linear;
+  transition: all 0.5s linear;
 }
 
 @media screen and (max-width: 1024px) {

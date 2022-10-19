@@ -5,6 +5,7 @@
   padding-bottom: 24px;
   display: flex;
   justify-content: space-between;
+  transition: all 0.5s linear;
 }
 
 @media screen and (max-width: 1024px) {

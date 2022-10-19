@@ -5,6 +5,7 @@
   font-size: 1.125rem;
   line-height: 1.63;
   margin-bottom: 26px;
+  transition: all 0.5s linear;
 }
 
 .place__paragraph:last-child{

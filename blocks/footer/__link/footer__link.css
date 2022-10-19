@@ -5,6 +5,7 @@
   font-size: 1rem;
   line-height: 1.1;
   text-decoration: none;
+  transition: all 0.5s linear;
 }
 
 .footer__links:nth-child(4){

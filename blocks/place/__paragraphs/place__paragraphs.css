@@ -1,5 +1,6 @@
 .place__paragraphs{
   width: 100%;
+  transition: all 0.5s linear;
 }
 
 @media screen and (max-width: 460px) {
