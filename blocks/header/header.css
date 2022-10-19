@@ -5,7 +5,7 @@
   margin-bottom: 56px;
   display: flex;
   justify-content: space-between;
-  align-items: center;
+  align-items: flex-end;
   padding-top: 28px;
   transition: margin-bottom 0.3s linear;
 }
